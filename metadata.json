@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Vanessa - AI Assistant for Océanne Benin",
+  "description": "A bilingual AI assistant named Vanessa, representing Océanne Benin. Features a modern voice visualizer and real-time conversation via Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
